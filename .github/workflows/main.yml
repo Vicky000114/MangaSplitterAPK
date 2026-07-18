@@ -21,6 +21,7 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y zip unzip openjdk-17-jdk python3-pip
+          yes | sdkmanager --licenses || true
           pip install buildozer cython
 
       - name: Build APK
