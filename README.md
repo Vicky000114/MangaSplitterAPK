@@ -1,0 +1,2 @@
+# MangaSplitterAPK
+Cortador
