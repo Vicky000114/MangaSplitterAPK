@@ -16,8 +16,10 @@ fullscreen = 0
 
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 
-android.api = 33
-android.minapi = 24
+android.api = 31
+android.minapi = 21
+android.sdk = 31
+android.ndk = 25b
 
 presplash.color = #202020
 
